@@ -1,1 +1,6 @@
-
+# Dependencies for MACE Si–Li tutorial (Colab provides GPU-enabled PyTorch)
+mace-torch==0.3.16
+ase
+numpy
+matplotlib
+pandas
